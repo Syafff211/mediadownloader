@@ -144,7 +144,7 @@ export default function Home() {
             <a href="#" className="text-[#1863DC] text-[14px] font-medium leading-[22px] py-[8px] px-[12px] border-b-2 border-[#FF9E33]">
               Home
             </a>
-            <a href="https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L" target="_blank" rel="noopener noreferrer" className="text-[#020817] text-[14px] font-medium leading-[22px] py-[8px] px-[12px] border-b-2 border-transparent hover:text-[#1863DC] hover:border-[#FF9E33] transition-colors">
+            <a href="https://whatsapp.com/channel/0029VbCPL3SDZ4LhYMzV9t2f" target="_blank" rel="noopener noreferrer" className="text-[#020817] text-[14px] font-medium leading-[22px] py-[8px] px-[12px] border-b-2 border-transparent hover:text-[#1863DC] hover:border-[#FF9E33] transition-colors">
               Community
             </a>
           </nav>
@@ -370,10 +370,10 @@ export default function Home() {
           
           <div className="flex flex-col items-center md:items-end md:text-right gap-[4px]">
             <p className="text-[14px] font-normal leading-[24px] text-[#212121]">
-              Developed & Maintained by <span className="font-medium text-[#020817]">SANN404 FORUM!!</span>
+              Developed & Maintained by <span className="font-medium text-[#020817]">syfxzz!!</span>
             </p>
             <p className="text-[12px] font-medium leading-[20px] text-[#1863DC] uppercase tracking-wider mb-[4px]">
-              SANN FORUM GROUP © {new Date().getFullYear()}
+              THE CODER © {new Date().getFullYear()}
             </p>
             <a href="https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L" target="_blank" rel="noopener noreferrer" className="text-[#1863DC] text-[14px] font-medium leading-[24px] hover:underline hover:underline-offset-4 flex items-center gap-[6px]">
               Join the Community Channel
