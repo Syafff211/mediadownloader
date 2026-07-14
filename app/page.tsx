@@ -415,12 +415,12 @@ export default function Home() {
 
               <h3 className="text-[32px] font-medium leading-[1.2] mb-[12px] tracking-tight">Stay Connected</h3>
               <p className="text-[16px] font-normal leading-[25px] mb-[32px] text-[#FFFFFF]/80">
-                Join the SANN404 FORUM!! channel on WhatsApp to receive the latest updates, enterprise tools, and developer news.
+                Join the THE CODER by syfxzz!! channel on WhatsApp to receive the latest updates, enterprise tools, and developer news.
               </p>
               
               <div className="flex flex-col gap-[16px]">
                 <a 
-                  href="https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L" 
+                  href="https://whatsapp.com/channel/0029VbCPL3SDZ4LhYMzV9t2f" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   onClick={() => setShowPopup(false)}
